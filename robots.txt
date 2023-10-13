@@ -1,0 +1,3 @@
+Sitemap: https://ninatranport.com/sitemap.xml
+User-Agent: *
+Allow: /
